@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawableScaleTest</string>
+    <string name="mdpi">MDPI</string>
+    <string name="hdpi">HDPI</string>
+    <string name="xhdpi">XHDPI</string>
+    <string name="xxhdpi">XXHDPI</string>
+    <string name="xxxhdpi">XXXHDPI</string>
+    <string name="hdpi_xhdpi">HDPI + XHDPI</string>
+    <string name="hdpi_xxhdpi">HDPI+XXHDPI</string>
+</resources>
